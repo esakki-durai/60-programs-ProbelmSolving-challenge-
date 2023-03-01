@@ -1,3 +1,26 @@
+/*
+ case :1
+arr = { 1,2,3,4,5,6,7,8,9}
+
+sum = 10
+
+Output :
+1+9=10
+
+______________________________________________________
+
+case :2
+arr = { 1,2,3,4,5,6,7,8,9}
+
+sum = 50
+
+Output :
+
+The sum of elements in not found
+______________________________________________________
+
+
+*/
 import java.util.*;
 class SubArrayEle{
 	public static void main(String[] args) {
