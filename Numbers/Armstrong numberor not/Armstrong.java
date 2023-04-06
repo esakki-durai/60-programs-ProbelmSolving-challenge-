@@ -1,3 +1,18 @@
+/*The armstrong number is the actual number is equals to the 
+reversed number
+
+case:1
+Enter the number 
+151 
+151 is Armstrong number
+
+case:2
+Enter the number
+234
+234 is not Armstrong number
+
+*/
+
 import java.util.Scanner;
 class Armstrong{
 	public static void main(String[] args) {
