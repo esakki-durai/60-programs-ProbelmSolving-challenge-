@@ -1,3 +1,6 @@
+/*
+That is a array operation to delete the duplicate elements
+output is attached that file check the attached the screenshot*/
 class RemDupliArrEle{	
 	public static void main(String[] args) {
 		int a[]={10,20,30,10,50,20,60};
