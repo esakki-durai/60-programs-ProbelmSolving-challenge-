@@ -11,6 +11,11 @@ Enter the number
 234
 234 is not Armstrong number
 
+case:3
+Enter the number
+101
+101 is Armstrong number
+
 */
 
 import java.util.Scanner;
